@@ -1,0 +1,308 @@
+	 Welcome to Joshua Richardson's Studying Program!
+Please select what you would like to do by typing in one of the numbers on the left.
+0. Start new day.
+1. Create a new deck
+2. Add a card to a deck
+3. Remove a deck
+4. Remove a card from a deck
+5. Study all decks
+6. Study a deck
+7. Check all stats
+8. Check deck stats
+9. Display Deck
+10. Duh
+11. Save
+12. Set stats
+13.	Set day
+
+	*Create a new deck*
+Enter the name of the new deck.
+Successfully created a new deck called Alphabet.
+
+
+	*Add a card to a deck*
+Which deck would you like to add the card to?
+Alphabet
+Adding card to the Alphabet deck.
+Enter the front side of the card:
+Enter the back side of the card:
+Enter any extra information to know about this card:
+
+You created this flashcard in the Alphabet deck:
+Front: E
+Back: e
+Extra: 
+
+
+	*Updating stats*
+Alphabet
+	*Stats updated*
+
+	*Add a card to a deck*
+Which deck would you like to add the card to?
+Alphabet
+Adding card to the Alphabet deck.
+Enter the front side of the card:
+Enter the back side of the card:
+Enter any extra information to know about this card:
+
+You created this flashcard in the Alphabet deck:
+Front: B
+Back: b
+Extra: 
+
+
+	*Updating stats*
+Alphabet
+	*Stats updated*
+
+	*Add a card to a deck*
+Which deck would you like to add the card to?
+Alphabet
+Adding card to the Alphabet deck.
+Enter the front side of the card:
+Enter the back side of the card:
+Enter any extra information to know about this card:
+
+You created this flashcard in the Alphabet deck:
+Front: C
+Back: c
+Extra: 
+
+
+	*Updating stats*
+Alphabet
+	*Stats updated*
+
+	*Add a card to a deck*
+Which deck would you like to add the card to?
+Alphabet
+Adding card to the Alphabet deck.
+Enter the front side of the card:
+Enter the back side of the card:
+Enter any extra information to know about this card:
+
+You created this flashcard in the Alphabet deck:
+Front: D
+Back: d
+Extra: 
+
+
+	*Updating stats*
+Alphabet
+	*Stats updated*
+
+	*Add a card to a deck*
+Which deck would you like to add the card to?
+Alphabet
+Adding card to the Alphabet deck.
+Enter the front side of the card:
+Enter the back side of the card:
+Enter any extra information to know about this card:
+
+You created this flashcard in the Alphabet deck:
+Front: A
+Back: a
+Extra: 
+
+
+	*Updating stats*
+Alphabet
+	*Stats updated*
+
+	*Add a card to a deck*
+Which deck would you like to add the card to?
+Alphabet
+Adding card to the Alphabet deck.
+Enter the front side of the card:
+Enter the back side of the card:
+Enter any extra information to know about this card:
+
+You created this flashcard in the Alphabet deck:
+Front: F
+Back: f
+Extra: 
+
+
+	*Updating stats*
+Alphabet
+	*Stats updated*
+
+	*Add a card to a deck*
+Which deck would you like to add the card to?
+Alphabet
+Adding card to the Alphabet deck.
+Enter the front side of the card:
+Enter the back side of the card:
+Enter any extra information to know about this card:
+
+You created this flashcard in the Alphabet deck:
+Front: G
+Back: g
+Extra: 
+
+
+	*Updating stats*
+Alphabet
+	*Stats updated*
+
+	*Add a card to a deck*
+Which deck would you like to add the card to?
+Alphabet
+Adding card to the Alphabet deck.
+Enter the front side of the card:
+Enter the back side of the card:
+Enter any extra information to know about this card:
+
+You created this flashcard in the Alphabet deck:
+Front: H
+Back: h
+Extra: 
+
+
+	*Updating stats*
+Alphabet
+	*Stats updated*
+
+	*Add a card to a deck*
+Which deck would you like to add the card to?
+Alphabet
+Adding card to the Alphabet deck.
+Enter the front side of the card:
+Enter the back side of the card:
+Enter any extra information to know about this card:
+
+You created this flashcard in the Alphabet deck:
+Front: I
+Back: i
+Extra: 
+
+
+	*Updating stats*
+Alphabet
+	*Stats updated*
+
+	*Create a new deck*
+Enter the name of the new deck.
+Successfully created a new deck called Japanese Cities.
+
+
+	*Add a card to a deck*
+Which deck would you like to add the card to?
+Alphabet
+Japanese Cities
+Adding card to the Japanese Cities deck.
+Enter the front side of the card:
+Enter the back side of the card:
+Enter any extra information to know about this card:
+
+You created this flashcard in the Japanese Cities deck:
+Front: First Area
+Back: Yokote
+Extra: Mike! This is a Sugi-san speaking...
+
+
+	*Updating stats*
+Alphabet
+Japanese Cities
+	*Stats updated*
+
+	*Add a card to a deck*
+Which deck would you like to add the card to?
+Alphabet
+Japanese Cities
+Adding card to the Japanese Cities deck.
+Enter the front side of the card:
+Enter the back side of the card:
+Enter any extra information to know about this card:
+
+You created this flashcard in the Japanese Cities deck:
+Front: Second Area
+Back: Morioka
+Extra: Shibata, Li, and Megumu <3
+
+
+	*Updating stats*
+Alphabet
+Japanese Cities
+	*Stats updated*
+
+	*Add a card to a deck*
+Which deck would you like to add the card to?
+Alphabet
+Japanese Cities
+Adding card to the Japanese Cities deck.
+Enter the front side of the card:
+Enter the back side of the card:
+Enter any extra information to know about this card:
+
+You created this flashcard in the Japanese Cities deck:
+Front: Third Area
+Back: Shirakawa
+Extra: de
+
+
+	*Updating stats*
+Alphabet
+Japanese Cities
+	*Stats updated*
+
+	*Add a card to a deck*
+Which deck would you like to add the card to?
+Alphabet
+Japanese Cities
+Adding card to the Japanese Cities deck.
+Enter the front side of the card:
+Enter the back side of the card:
+Enter any extra information to know about this card:
+
+You created this flashcard in the Japanese Cities deck:
+Front: Fourth Area
+Back: Kitakami
+Extra: Yoshida, Takada, and Chie
+
+
+	*Updating stats*
+Alphabet
+Japanese Cities
+	*Stats updated*
+
+	*Add a card to a deck*
+Which deck would you like to add the card to?
+Alphabet
+Japanese Cities
+Adding card to the Japanese Cities deck.
+Enter the front side of the card:
+Enter the back side of the card:
+Enter any extra information to know about this card:
+
+You created this flashcard in the Japanese Cities deck:
+Front: The Capitol
+Back: Tokyo
+Extra: SO BUSY!
+
+
+	*Updating stats*
+Alphabet
+Japanese Cities
+	*Stats updated*
+
+	*Add a card to a deck*
+Which deck would you like to add the card to?
+Alphabet
+Japanese Cities
+Adding card to the Japanese Cities deck.
+Enter the front side of the card:
+Enter the back side of the card:
+Enter any extra information to know about this card:
+
+You created this flashcard in the Japanese Cities deck:
+Front: Mission Home in Tohoku
+Back: Sendai
+Extra: Sekiguchi Kaicho
+
+
+	*Updating stats*
+Alphabet
+Japanese Cities
+	*Stats updated*

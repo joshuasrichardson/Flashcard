@@ -1,0 +1,18 @@
+﻿  main.cpp
+C:\Users\joshu\source\repos\Memory\Memory\FlashCard.h(76,42): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\joshu\source\repos\Memory\Memory\Deck.h(38,70): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\joshu\source\repos\Memory\Memory\Deck.h(40,74): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\joshu\source\repos\Memory\Memory\Deck.h(42,41): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joshu\source\repos\Memory\Memory\Deck.h(53,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joshu\source\repos\Memory\Memory\Deck.h(73,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joshu\source\repos\Memory\Memory\Deck.h(95,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joshu\source\repos\Memory\Memory\Deck.h(106,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joshu\source\repos\Memory\Memory\main.cpp(144,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joshu\source\repos\Memory\Memory\main.cpp(234,16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\joshu\source\repos\Memory\Memory\main.cpp(285,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joshu\source\repos\Memory\Memory\main.cpp(341,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joshu\source\repos\Memory\Memory\main.cpp(380,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joshu\source\repos\Memory\Memory\main.cpp(632,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joshu\source\repos\Memory\Memory\main.cpp(654,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joshu\source\repos\Memory\Memory\main.cpp(669,23): warning C4018: '<': signed/unsigned mismatch
+  Memory.vcxproj -> C:\Users\joshu\source\repos\Memory\Debug\Memory.exe

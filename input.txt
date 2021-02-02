@@ -1,0 +1,201 @@
+1
+Alphabet
+2
+Alphabet
+E
+e
+
+12
+Alphabet
+0
+1
+2
+2
+0
+1
+2
+Alphabet
+B
+b
+
+12
+Alphabet
+1
+1
+2
+2
+0
+1
+2
+Alphabet
+C
+c
+
+12
+Alphabet
+2
+1
+2
+2
+0
+1
+2
+Alphabet
+D
+d
+
+12
+Alphabet
+3
+1
+2
+2
+0
+1
+2
+Alphabet
+A
+a
+
+12
+Alphabet
+4
+1
+2
+3
+1
+2
+2
+Alphabet
+F
+f
+
+12
+Alphabet
+5
+1
+2
+2
+0
+1
+2
+Alphabet
+G
+g
+
+12
+Alphabet
+6
+1
+2
+2
+0
+1
+2
+Alphabet
+H
+h
+
+12
+Alphabet
+7
+1
+2
+2
+0
+1
+2
+Alphabet
+I
+i
+
+12
+Alphabet
+8
+0
+0
+0
+0
+0
+1
+Japanese Cities
+2
+Japanese Cities
+First Area
+Yokote
+Mike! This is a Sugi-san speaking...
+12
+Japanese Cities
+0
+1
+2
+2
+0
+1
+2
+Japanese Cities
+Second Area
+Morioka
+Shibata, Li, and Megumu <3
+12
+Japanese Cities
+1
+1
+2
+2
+0
+1
+2
+Japanese Cities
+Third Area
+Shirakawa
+de
+12
+Japanese Cities
+2
+1
+2
+2
+2
+1
+2
+Japanese Cities
+Fourth Area
+Kitakami
+Yoshida, Takada, and Chie
+12
+Japanese Cities
+3
+1
+2
+2
+0
+1
+2
+Japanese Cities
+The Capitol
+Tokyo
+SO BUSY!
+12
+Japanese Cities
+4
+1
+2
+2
+0
+1
+2
+Japanese Cities
+Mission Home in Tohoku
+Sendai
+Sekiguchi Kaicho
+12
+Japanese Cities
+5
+1
+2
+2
+0
+2
+13
+3
